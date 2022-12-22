@@ -33,7 +33,7 @@ Patr CLI can be installed using any one of the package manager
 
 -   Linux users can use snap: `snap install patr --channel=beta`
 -   Mac users can use brew: `brew install patr-cloud/cli-beta/patr`
--   Windows users can use choco: `choco install patr`
+-   Windows users can use choco: `choco install patr --pre`
 -   If none of the above methods suits your need, you can install binaries directly from [Github release page](https://github.com/patr-cloud/cli/releases)
 
 ## Community:
