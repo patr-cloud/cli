@@ -6,16 +6,16 @@ Patr is a simple to use and easy to scale cloud platform. `patr-cli` is a comman
 
 ## Features:
 
-### SignIn to Patr account
+### Sign-In to Patr account
 
-SignIn to your Patr account either using username and password or using a separate API token for CLI
+Sign-In to your Patr account either using username and password or using a separate API token for CLI
 
 ### Handle Multiple workspaces
 
 -   List all workspaces associated with the currently logged in user
 -   Switch between workspaces to interact with resources in that workspace
 
-## Manage resources
+### Manage resources
 
 Easily manage and interact with resources like
 
@@ -23,7 +23,7 @@ Easily manage and interact with resources like
 -   Patr registry for docker images
 -   Deployments
 
-## Migrate from heroku
+### Migrate from heroku
 
 Allows you to easily migrate your exiting Heroku resources to Patr in a single command
 
